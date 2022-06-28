@@ -46,7 +46,8 @@ https://user-images.githubusercontent.com/107830775/176172809-a28d9f6c-1469-441d
 
 
 
-https://raw.githubusercontent.com/ROHAN0011/Microsoft-Future-Ready-Talent-Internship-Project/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg
+![FRT](https://user-images.githubusercontent.com/107830775/176173646-15533c4e-27ec-4887-8df1-5f5f85bda3f5.jpeg)
+
 
 
 
